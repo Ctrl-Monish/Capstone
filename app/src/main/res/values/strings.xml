@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Capstone AR</string>
+    <string name="intent_tag_id">com.projects.capstonear.TAG_ID</string>
+
+
+    <string name="distance_info_not_found">Distance unknown</string>
+    <string name="distance_info_m">Distance %d M</string>
+    <string name="distance_info_km">Distance %d KM</string>
+</resources>
